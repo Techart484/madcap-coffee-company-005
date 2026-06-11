@@ -1,0 +1,42 @@
+[
+  {
+    "sectionKey": "Our Newest Cafe",
+    "archetype": "whitespace-manifesto",
+    "rationale": "mutated → whitespace-manifesto (industry-generic)"
+  },
+  {
+    "sectionKey": "Featured Coffee",
+    "archetype": "product-spotlight",
+    "rationale": "gallery → product-spotlight"
+  },
+  {
+    "sectionKey": "Educational Content",
+    "archetype": "minimal-grid",
+    "rationale": "features → minimal-grid"
+  },
+  {
+    "sectionKey": "Cafe Development Updates",
+    "archetype": "minimal-grid",
+    "rationale": "features → minimal-grid"
+  },
+  {
+    "sectionKey": "Coffees On The Menu",
+    "archetype": "asymmetric-feature",
+    "rationale": "products → asymmetric-feature"
+  },
+  {
+    "sectionKey": "Brewing Gear",
+    "archetype": "asymmetric-feature",
+    "rationale": "products → asymmetric-feature"
+  },
+  {
+    "sectionKey": "Apparel",
+    "archetype": "asymmetric-feature",
+    "rationale": "products → asymmetric-feature"
+  },
+  {
+    "sectionKey": "Stay Connected",
+    "archetype": "whitespace-manifesto",
+    "rationale": "cta → whitespace-manifesto"
+  }
+]
