@@ -1,0 +1,75 @@
+{
+  "deploymentId": "dpl_b8d20925",
+  "projectName": "madcap-coffee-company-2026",
+  "framework": "Shopify",
+  "language": "Liquid",
+  "stagingUrl": "https://madcap-coffee-company-2026-b8d20925.vercel.app",
+  "inspectorUrl": "https://vercel.com/awde/madcap-coffee-company-2026/deployments/b8d20925",
+  "deployedAt": "2026-06-11T20:38:44.656Z",
+  "modules": [
+    {
+      "id": "mod_d92a6943",
+      "slug": "products",
+      "displayName": "Products",
+      "itemCount": 31,
+      "fields": [
+        {
+          "slug": "name",
+          "name": "Name",
+          "type": "PlainText"
+        },
+        {
+          "slug": "description",
+          "name": "Description",
+          "type": "RichText"
+        },
+        {
+          "slug": "features",
+          "name": "Features",
+          "type": "RichText"
+        }
+      ]
+    },
+    {
+      "id": "mod_68ea9eb9",
+      "slug": "sections",
+      "displayName": "Page Sections",
+      "itemCount": 8,
+      "fields": [
+        {
+          "slug": "kind",
+          "name": "Kind",
+          "type": "Option"
+        },
+        {
+          "slug": "title",
+          "name": "Title",
+          "type": "PlainText"
+        },
+        {
+          "slug": "summary",
+          "name": "Summary",
+          "type": "RichText"
+        }
+      ]
+    },
+    {
+      "id": "mod_71f72ee4",
+      "slug": "nav-links",
+      "displayName": "Nav Links",
+      "itemCount": 6,
+      "fields": [
+        {
+          "slug": "label",
+          "name": "Label",
+          "type": "PlainText"
+        },
+        {
+          "slug": "order",
+          "name": "Order",
+          "type": "Number"
+        }
+      ]
+    }
+  ]
+}
