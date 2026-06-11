@@ -1,0 +1,24 @@
+{
+  "overall": 0.847,
+  "modules": [
+    {
+      "module": "Products",
+      "score": 0.542,
+      "notes": [
+        "23/31 products missing imagery",
+        "1 products have thin descriptions"
+      ]
+    },
+    {
+      "module": "Features",
+      "score": 1,
+      "notes": []
+    },
+    {
+      "module": "Nav",
+      "score": 1,
+      "notes": []
+    }
+  ],
+  "passedThreshold": false
+}
